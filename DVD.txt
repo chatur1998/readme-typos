@@ -1,0 +1,7 @@
+1. Stup_MP3.exe, Stup_MP3-1.bin, dsk1.bin, atorun.inf
+
+2. dsk2.bin
+
+3. dsk3_1.bin, dsk3_2.bin, dsk3_3.bin, dsk3_4.bin, dsk3_5.bin
+
+4. dsk4.bin
