@@ -86,7 +86,7 @@ WIN_IMPROPER_QUIT_TITLE
 "Run In Safe Mode?"
 
 
-WIN_ERROR
+WIN_ERRORsdsd
 "Fatal Error"
 
 WIN_NO_STEAM
